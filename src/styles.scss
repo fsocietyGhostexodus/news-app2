@@ -18,13 +18,7 @@ h1 {
   margin-top: 20px;
   margin-bottom: 20px;
 }
-h1:hover{
-  background-color: black;
 
-}
-.nav-link:hover{
-  background-color: orange;
-}
 .loading {
   text-align: center;
 }
@@ -127,4 +121,10 @@ h1:hover{
 }
 .story:hover{
   background-color: turquoise;
+}
+.h1:hover{
+  background-color: black;
+}
+.nav-link:hover{
+  background-color: orange;
 }
